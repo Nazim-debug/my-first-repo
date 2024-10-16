@@ -3,3 +3,18 @@
     padding: 10px;
     margin-bottom: 10px;
 }
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 15px;
+    padding: 5px;
+}
+nav li:hover{
+    background-color: rgb(235, 145, 12);
+    padding: 10px;
+}
+nav li a{
+    text-decoration: none;
+}
